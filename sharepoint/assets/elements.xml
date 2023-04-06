@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="HelloWorld"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="0731661c-683b-4b17-bad9-97cb2579dfe7"
+        ClientSideComponentProperties="{&quot;appBarElement&quot;:&quot;sp-appBar&quot;,&quot;titleElement&quot;:&quot;_3rUUXFwqB4l2JguqIctQtd&quot;}">
+    </CustomAction>
+</Elements>

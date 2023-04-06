@@ -1,0 +1,13 @@
+.app
+{
+   background-color: rgb(29, 144, 182);
+   color:white;
+   text-align: center;
+   font-size: 32px;
+}
+.top{
+    height: 60px;
+}
+.bottom{
+    height: 60px;
+}

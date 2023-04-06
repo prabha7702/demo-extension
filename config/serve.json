@@ -1,0 +1,31 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://x2k47.sharepoint.com/sites/sample-comm-site-1/SitePages/Demo-Extension.aspx",
+      "customActions": {
+        "0731661c-683b-4b17-bad9-97cb2579dfe7": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "appBarElement": "sp-appBar",
+            "titleElement":"_3rUUXFwqB4l2JguqIctQtd"
+          }
+        }
+      }
+    },
+    "helloWorld": {
+      "pageUrl": "https://x2k47.sharepoint.com/sites/sample-comm-site-1/SitePages/Demo-Extension.aspx",
+      "customActions": {
+        "0731661c-683b-4b17-bad9-97cb2579dfe7": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "appBarElement": "sp-appBar",
+            "titleElement":"_3rUUXFwqB4l2JguqIctQtd"
+          }
+        }
+      }
+    }
+  }
+}
